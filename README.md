@@ -12,15 +12,21 @@ Deployment using Flask/Streamlit (optional)
 # 📁 Dataset
 
 ## The dataset includes features such as:
-Size (Square footage)
-Number of bedrooms & bathrooms
-Age of the property
-Market trends
+- Size (Square footage)
+- Number of bedrooms & bathrooms
+- Age of the property
+- Market trends
+- etc
 # 🛠️ Tech Stack
-. Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn).<br>
-. Jupyter Notebook for development and visualization.<br>
-. Flask/Streamlit for deployment (optional).<br>
-# How to install streamlit
+- Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn)
+- Jupyter Notebook for development and visualization
+- Flask/Streamlit for deployment (optional)
+# 🚀 How to Run
+1. Clone the repository:
+
+   ```python
+   code
+   
 
 
 
