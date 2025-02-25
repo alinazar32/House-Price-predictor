@@ -23,11 +23,20 @@ Deployment using Flask/Streamlit (optional)
 - Flask/Streamlit for deployment (optional)
 # 🚀 How to Run
 1. Clone the repository:
-
-   ```python
+ ```python
    code
-   
+   https://github.com/alinazar32/House-Price-predictor.git
+```
+2. Run the Jupyter Notebook for training the model.
 
+3. (Optional) Deploy the model using Flask/Streamlit.
+
+# 📌 Future Improvements
+- Adding more advanced models (XGBoost, Neural Networks)
+- Feature selection & hyperparameter tuning
+- Integration with real estate APIs for live data
+# 📜 License
+This project is open-source under the MIT License.
 
 
 
